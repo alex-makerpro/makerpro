@@ -3,7 +3,7 @@ core
     makerpro.cc
     
 projects
-    vmaker.tw
+    vmaker
 
-    aiotchiayi.org
+    aiot
 
